@@ -1,2 +1,2 @@
 # Machine-Learning-Models
-This is a repository of my assignments for Machine learning class
+This is a KNN classifier for classifying digits and displaying a confusion matrix for the classification
